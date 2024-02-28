@@ -7,7 +7,7 @@ currently working as
 - **director** in [Manchuria Museum](https://mus-manchuria.com/ja/index.html) (Dec. 2021 - )
 
 formerly woring 
-- in Hadron physics (QCD phenomenology) in [Nuclear Theory Group](http://www.nucl.phys.tohoku.ac.jp), Tohoku University
+- in Hadron physics (QCD phenomenology) in [Nuclear Theory Group](http://www.nucl.phys.tohoku.ac.jp), Tohoku University (Apr. 2022 - Mar. 2024)
 
 interested in ...
 - ICT system construction
