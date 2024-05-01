@@ -15,7 +15,11 @@ interested in ...
 - Digital archives 📃
 - something exciting 💥
 
-also interested in history of immigration in East-Asia, oral-history, auto-ethnography, Mandarin ...
+also interested in 
+- history of immigration in East-Asia
+- oral-history and auto-ethnography
+- Mandarin
+- ...
 
 my personal website is
 - [RjChiba's Website](https://rjchiba.vercel.app)
