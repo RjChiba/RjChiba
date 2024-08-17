@@ -25,10 +25,7 @@ my personal website is
 - [RjChiba's Website](https://rjchiba.vercel.app)
 
 tech stacks I am using are ...
-- lang: Python, C++, Julia, Google Apps Script
-- web: HTML, CSS (+ tailwind.css, bootstrap), JavaScript, React.js
-- 3D modeling: Three.js
+- lang: Python, C++, Julia, Google Apps Script, HTML, CSS, JavaScript
+- framework: Express.js, React.js, Tailwind.css, Bootstrap. FastAPI.py, Flask.py
 - DB: MySQL, PostgreSQL, JsonPath
-- HTTP routing: fastAPI, Flask, Apache server
-- cloud: Firebase, Cloud RDB, Cloud Functions, Cloud Run, AWS RDB
-- other: Docker
+- tools: GCP (Firebase, Cloud RDB, Cloud Functions, Cloud Run), AWS, Docker
