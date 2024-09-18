@@ -7,10 +7,11 @@ Currently working as
 - Dec. 2021 -: **Director** in [Manchuria Museum](https://office.mus-manchuria.com/)
 
 Former affiliation is
-- Apr. 2022 - Mar. 2024: [Nuclear Theory Group](http://www.nucl.phys.tohoku.ac.jp), Tohoku University (as a master student)
+- Apr. 2022 - Mar. 2024: **Master student** in [Nuclear Theory Group](http://www.nucl.phys.tohoku.ac.jp), Tohoku Universit
 
 Interested in
-- ICT system construction
+- ICT system
+- Web Apps
 - digital archives 📃
 
 Also interested in history and sociology 
