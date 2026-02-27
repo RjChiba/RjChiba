@@ -3,16 +3,17 @@
 Hi👋 , I am Ryuji Chiba (千葉隆司)
 
 Currently working as 
-- Apr. 2024 -: **System engineer** in ■■■ Co., Ltd.
+- Apr. 2026 -: TBA
+- Apr. 2024 -: **Infrastructure engineer** in ■■■ Co., Ltd.
 - Dec. 2021 -: **Director** in [Manchuria Museum](https://office.mus-manchuria.com/)
 
 Former affiliation is
 - Apr. 2022 - Mar. 2024: **Master student** in [Nuclear Theory Group](http://www.nucl.phys.tohoku.ac.jp), Tohoku University
 
 Interested in
-- ICT system
-- Web Apps
-- digital archives 📃
+- Operation transformation for public sectors
+- GovTech
+- Digital archives 
 
 Also interested in history and sociology 
 - history of immigration in East-Asia
@@ -24,6 +25,6 @@ Links
 - [Qiita/RjChiba](https://qiita.com/RjChiba)
 
 Tech stacks
-- Lang: Python, C++, Julia, Google Apps Script, HTML, CSS, JavaScript
-- Framework: Express.js, React.js, Tailwind.css, Bootstrap, FastAPI.py, Flask.py
-- Services: GCP, AWS, Docker
+- Lang: Python, C++, JuliaLang, JavaScript/TypeScript, 
+- Framework: Node.js, Express.js, React.js (on Next.js, Vite), tailwind.css, FastAPI.py, Flask.py
+- Services: GCP, AWS, Docker, RHEL, Windows Server
