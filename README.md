@@ -3,11 +3,11 @@
 Hi👋 , I am Ryuji Chiba (千葉隆司)
 
 Currently working as 
-- Apr. 2026 -: TBA
-- Apr. 2024 -: **Infrastructure engineer** in ■■■ Co., Ltd.
+- Apr. 2026 -: **Application engineer** in ■■■ Co., Ltd.
 - Dec. 2021 -: **Director** in [Manchuria Museum](https://office.mus-manchuria.com/)
 
 Former affiliation is
+- Apr. 2024 - Mar. 2026: **Infrastructure engineer** in Fujitsu Japan Ltd.
 - Apr. 2022 - Mar. 2024: **Master student** in [Nuclear Theory Group](http://www.nucl.phys.tohoku.ac.jp), Tohoku University
 
 Interested in
